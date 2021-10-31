@@ -1,0 +1,24 @@
+{
+  "name": "simple-password-generator",
+  "version": "1.0.1",
+  "type":"module",
+  "description": "simple and tiny, but useful password generator. Try it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ax51/Simple-password-generator.git"
+  },
+  "keywords": [
+    "password-generator",
+    "js-native"
+  ],
+  "author": "Ax51",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ax51/Simple-password-generator/issues"
+  },
+  "homepage": "https://github.com/Ax51/Simple-password-generator#readme"
+}
